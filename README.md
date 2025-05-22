@@ -10,7 +10,7 @@ I’m a future full-stack developer passionate about building efficient, scalabl
 *   ✉️  You can contact me at [walaamohamedj@gmail.com](mailto:walaamohamedj@gmail.com)
 *   🤝  I'm open to collaborating on Full-stack apps, AI-integrated web tools, culturally inclusive digital projects, and anything with a clean UI and secure backend.
 *   ⚡  I love turning ideas into interactive apps that solve real problems. Passionate about clean code, fast UI, and meaningful tech.
-*   Also—yes, I’ll still debug your code at 2AM.
+   Also—yes, I’ll still debug your code at 2AM.
 
 
 *   ### Skills 
@@ -23,5 +23,4 @@ I’m a future full-stack developer passionate about building efficient, scalabl
 
 ##  Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:walaamohamedj@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wxmohd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walaa-mohamed-b28604251)
